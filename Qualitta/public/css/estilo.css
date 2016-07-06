@@ -1,0 +1,25 @@
+/* HEADER - MENU */
+.navbar {
+	min-height: 90px;
+	margin-bottom:0;
+}
+
+.no-padding{
+	padding:0;	
+}
+
+.padding{
+	padding-left: 4px;
+}
+
+/* TELA DE INICIO FORMULÁRIOS */
+
+.adicionar{
+	margin:10px;
+}
+
+/* BUTTONS */
+.btn-add{
+	margin-top:20px;
+	margin-bottom:20px;
+}
